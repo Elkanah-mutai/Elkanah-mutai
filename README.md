@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elkanah-mutai
+- 👋 Hi, I’m mutai
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on javascript projects 
